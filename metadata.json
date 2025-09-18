@@ -1,0 +1,7 @@
+{
+  "name": "Sahaayak: Your Wellness Companion",
+  "description": "A modern, desktop-friendly youth mental wellness application designed to provide a safe space for users. Features include mood tracking, guided exercises, journaling, and an AI-powered companion.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
